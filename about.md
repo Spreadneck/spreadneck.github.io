@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Spreadneck is a portmanteau of spreadhead (a devoted fan of the southern, blues, rock and rhythm band Widespread Panic) and redneck (needs no definition I hope). 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a music loving sysadmin who hopes to use this as a space to collect his thoughts and ideas. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nate@spreadneck.com](mailto:nate@spreadneck.com)
