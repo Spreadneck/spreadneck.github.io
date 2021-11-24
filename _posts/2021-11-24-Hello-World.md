@@ -3,8 +3,6 @@ layout: post
 title: I'm up and running!
 ---
 
-Working on updating my site name, avatar and other options using the _config.yml file.
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
+First post. Using GitHub and Jekyll. Hopefully this will be used to keep some thoughts and ideas together going forward. 
 
 Rock n' roll.
