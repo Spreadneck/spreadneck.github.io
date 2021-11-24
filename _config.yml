@@ -9,7 +9,7 @@ name: Spreadneck
 description: A Readneck's Sandbox or a Spreadhead's Toolshed
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/Spreadneck/spreadneck.github.io/master/images/longhaired_spreadneck.jpg
+avatar: "{{ site.baseurl }}/images/longhaired_spreadneck.jpg"
 
 #
 # Flags below are optional
