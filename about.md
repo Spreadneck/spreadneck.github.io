@@ -8,7 +8,7 @@ Spreadneck is a portmanteau of spreadhead (a devoted fan of the southern, blues,
 
 ### More Information
 
-I'm a music loving sysadmin who hopes to use this as a space to collect his thoughts and ideas. 
+I'm a music loving systems and network administrator who hopes to use this as a space to collect his thoughts and ideas. 
 
 ### Contact me
 
